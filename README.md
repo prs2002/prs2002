@@ -1,4 +1,4 @@
-<p align="center"><a href="https://prs2002.github.io"><img width="80%" alt="Hello, I'm Praneet. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm Praneet." src="./assets/gh-readme-header.png" /></a></p>
 <br />
 <h3 align="center">.💻Balancing digital pursuits while prioritizing unplugged moments.🧠</h3>
 
