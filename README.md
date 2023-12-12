@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Praneet." src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Hi 👋, I'm Praneet</h1>
 <br />
 <h3 align="center">.💻Balancing digital pursuits while prioritizing unplugged moments.🧠</h3>
 
