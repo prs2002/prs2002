@@ -30,10 +30,8 @@
 
 <br>
 
-![Praneet's views](https://komarev.com/ghpvc/?username=prs2002)
-
 <br>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=prs2002)
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&hide=GLSL,Astro"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=prs2002"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prs2002&theme=highcontrast&layout=donut-vertical&hide=GLSL,Astro"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=prs2002"/></td></tr></table>
