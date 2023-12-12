@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Praneet</h1>
+<p align="center"><a href="https://prs2002.github.io"><img width="80%" alt="Hello, I'm Praneet. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<br />
 <h3 align="center">.💻Balancing digital pursuits while prioritizing unplugged moments.🧠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam18213&label=Profile%20views&color=0e75b6&style=flat" alt="shivam18213" /> </p>
