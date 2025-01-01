@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently seeking opportunities to grow and learn in a dynamic and fast-paced environment.
 
-- 🌱 I’m currently working on **MERN Stack**
+- 🌱 I’m currently working on **Next.js as well MERN Stack**
 
 - 👯 I’m eger to collaborate on **Hackathons And Projects**
 
-- 🤝 I’m looking for help with **Web Development and Data Science**
+- 🤝 I’m looking for help with **Web Development and Data DevOps**
 
 - 📫 How to reach me **xxprs2002@gmail.com**
 <br>
